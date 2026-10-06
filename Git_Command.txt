@@ -1,0 +1,7 @@
+git status
+git init
+git add .
+git commit -m "First Commit"
+git branch -M main
+git remote add origin https://github.com/Dev-Kartik-Codes/FSDCSE21BACKEND.git
+git push -u origin main

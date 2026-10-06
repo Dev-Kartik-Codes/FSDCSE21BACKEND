@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Kartik Rathore",
+    "roll": "615",
+    "course": "B.Tech",
+    "email": "kartikrathore@gmail.com"
+  },
+  {
+    "name": "Kanav Sharma",
+    "roll": "605",
+    "course": "B.Tech",
+    "email": "kanavsharma@gmail.com"
+  },
+  {
+    "name": "Kartikey Gupta",
+    "roll": "617",
+    "course": "B.Tech",
+    "email": "kartikeygupta@gmail.com"
+  },
+  {
+    "name": "Ichchhansh Mohan",
+    "roll": "575",
+    "course": "B.Tech",
+    "email": "ichchhanshmohan@gmail.com"
+  },
+  {
+    "name": "Himanshu Jaiswal",
+    "roll": "562",
+    "course": "B.Tech",
+    "email": "hima@gmail.com"
+  }
+]
